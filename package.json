@@ -1,0 +1,14 @@
+{
+  "name": "uaa-test-center",
+  "version": "0.1.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "styles": "node-sass style.scss style.css -w"
+  },
+  "author": "Karsten Buckstegge",
+  "license": "ISC",
+  "dependencies": {
+    "node-sass": "^6.0.1"
+  }
+}
